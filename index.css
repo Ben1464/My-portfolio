@@ -66,3 +66,14 @@ form{
     border-radius: 5px;
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
 }
+img{
+    width: 200px;
+    height: 200pxs;
+    border-radius: 12px;
+}
+p.hover{
+    color:#ff9900;
+}
+footer{
+    text-align: center;
+}
