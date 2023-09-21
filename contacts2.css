@@ -1,0 +1,15 @@
+body{
+    font-family: arial,sans-serif;
+    margin: 50px;
+    text-align: center;
+}
+.contact-card{
+    border:1px solid #ddd;
+    padding:20px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(o,o,o,o.1);
+}
+h2{
+    margin-top: 0;
+}
