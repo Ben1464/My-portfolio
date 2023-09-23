@@ -87,3 +87,7 @@ footer{
     background-color: #333;
     color: #fff;
 }
+button{
+    align-items: center;
+    padding-left: 24px;
+}
