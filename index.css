@@ -86,8 +86,9 @@ footer{
 .dark-mode{
     background-color: #333;
     color: #fff;
+    padding-right: 50px;
 }
-button{
-    align-items: center;
-    padding-left: 24px;
+.menuToggle{
+    display: none;
 }
+
